@@ -2,6 +2,13 @@ Creador de Usuarios
 
 Este controlador maneja las solicitudes relacionadas con la creacion de usuarios en la aplicación, siguiendo la arquitectura hexagonal.
 
+Desarrollo realizado con 
+Java 17 
+FrameWork SpringBoot 
+Architecture Hexagonal 
+Persistencia De Datos JPA 
+BAse de Datos H2 
+
 Endpoints:
 
     POST /rest/users/create: Crea un nuevo usuario en el sistema.
